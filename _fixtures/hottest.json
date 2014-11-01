@@ -1,0 +1,526 @@
+[
+  {
+    "tags": [
+      "security"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/b9d3b5c3539fcc1e152e64c87f945557?r=pg&d=mm&s=100",
+      "is_moderator": true,
+      "is_admin": true,
+      "created_at": "2012-06-30T16:39:19.000-05:00",
+      "username": "jcs"
+    },
+    "created_at": "2014-10-31T20:28:05.000-05:00",
+    "url": "https://ello.co/gb/post/knOWk-qeTqfSpJ6f8-arCQ",
+    "title": "The Value of a Name",
+    "short_id": "jyloq8",
+    "score": 8,
+    "comment_count": 6,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/jyloq8/the_value_of_a_name"
+  },
+  {
+    "tags": [
+      "distributed",
+      "video"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/1f2680dd28f23314b2b690acd024bd80?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-12-29T16:30:56.000-06:00",
+      "username": "cmeiklejohn"
+    },
+    "created_at": "2014-10-31T17:35:26.000-05:00",
+    "url": "https://www.youtube.com/watch?v=1KP_pxFhlVU",
+    "title": "\"SyncFree; Large Scale Computation without Synchronization\", Annette Bieniusa & Chris Meiklejohn",
+    "short_id": "d33im7",
+    "score": 6,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/d33im7/syncfree_large_scale_computation_without_synchronization_annette_bieniusa_chris_meiklejohn"
+  },
+  {
+    "tags": [
+      "api"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/dc3a4c4f6d1ae1445586e2444c435cd2?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-10-21T10:43:43.000-05:00",
+      "username": "hmarr"
+    },
+    "created_at": "2014-10-31T07:23:48.000-05:00",
+    "url": "https://gocardless.com/blog/lessons-learned-building-apis/",
+    "title": "Building APIs: lessons learned the hard way",
+    "short_id": "gkum92",
+    "score": 17,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gkum92/building_apis_lessons_learned_the_hard_way"
+  },
+  {
+    "tags": [
+      "javascript",
+      "linux",
+      "networking",
+      "unix"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/e3e3cf8fd1dc56f7a5c6a58384271367?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-08-22T06:16:49.000-05:00",
+      "username": "Nowaker"
+    },
+    "created_at": "2014-10-31T08:40:21.000-05:00",
+    "url": "https://www.virtkick.io/blog/de-websockify-ssh-to-avoid-lockdown-in-hotel-rooms.html",
+    "title": "(De)websockify SSH to avoid lockdown in hotel rooms",
+    "short_id": "udbfej",
+    "score": 10,
+    "comment_count": 3,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/udbfej/de_websockify_ssh_to_avoid_lockdown_in_hotel_rooms"
+  },
+  {
+    "tags": [
+      "security"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/b9d3b5c3539fcc1e152e64c87f945557?r=pg&d=mm&s=100",
+      "is_moderator": true,
+      "is_admin": true,
+      "created_at": "2012-06-30T16:39:19.000-05:00",
+      "username": "jcs"
+    },
+    "created_at": "2014-10-31T09:30:38.000-05:00",
+    "url": "https://www.facebook.com/notes/protect-the-graph/making-connections-to-facebook-more-secure/1526085754298237",
+    "title": "Making Connections to Facebook more Secure [via Tor]",
+    "short_id": "g1oiqi",
+    "score": 7,
+    "comment_count": 4,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/g1oiqi/making_connections_to_facebook_more_secure_via_tor"
+  },
+  {
+    "tags": [
+      "security"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/6539ae86c7d8ddec66f3928beddad569?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-05-13T15:08:35.000-05:00",
+      "username": "nwjsmith"
+    },
+    "created_at": "2014-10-31T14:47:14.000-05:00",
+    "url": "http://techblog.netflix.com/2014/10/message-security-layer-modern-take-on.html",
+    "title": "Message Security Layer: A Modern Take on Securing Communication",
+    "short_id": "epqk34",
+    "score": 5,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/epqk34/message_security_layer_a_modern_take_on_securing_communication"
+  },
+  {
+    "tags": [
+      "mac",
+      "person",
+      "video"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/680dba70e80d89deb9a016db8759e787?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-06-02T17:42:02.000-05:00",
+      "username": "sevan"
+    },
+    "created_at": "2014-10-31T15:58:32.000-05:00",
+    "url": "https://www.youtube.com/watch?v=TRZAJY23xio",
+    "title": "Steve Jobs - The Lost Interview",
+    "short_id": "oaolvt",
+    "score": 2,
+    "comment_count": 2,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/oaolvt/steve_jobs_-_the_lost_interview"
+  },
+  {
+    "tags": [
+      "devops",
+      "distributed",
+      "scaling"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/7ead26d6d4d0eeaece9e66ce021871a1?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2012-08-10T08:27:03.000-05:00",
+      "username": "moses"
+    },
+    "created_at": "2014-10-31T13:22:59.000-05:00",
+    "url": "https://keen.io/blog/101427090951/post-mortem-the-one-where-we-accidentally-ddosed",
+    "title": "Post Mortem: The One Where We Accidentally DDOSed Ourselves",
+    "short_id": "urtau8",
+    "score": 5,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/urtau8/post_mortem_the_one_where_we_accidentally_ddosed_ourselves"
+  },
+  {
+    "tags": [
+      "games",
+      "hardware",
+      "video"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/e7be134a6de3d308adf765be1004c450?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2012-08-14T20:25:08.000-05:00",
+      "username": "pushcx"
+    },
+    "created_at": "2014-10-31T14:45:21.000-05:00",
+    "url": "https://www.youtube.com/watch?v=fe1-VVXIEh4",
+    "title": "The Ultimate Commodore 64 Talk",
+    "short_id": "3sdsqz",
+    "score": 3,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3sdsqz/the_ultimate_commodore_64_talk"
+  },
+  {
+    "tags": [
+      "databases",
+      "unix"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/8bc30289cc24f93879a8af1b829cb404?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-10-21T10:43:36.000-05:00",
+      "username": "henkjan"
+    },
+    "created_at": "2014-10-31T07:13:47.000-05:00",
+    "url": "https://www.periscope.io/blog/optimizing-your-psql.html",
+    "title": "Optimizing Your psql",
+    "short_id": "d8hpk3",
+    "score": 2,
+    "comment_count": 2,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/d8hpk3/optimizing_your_psql"
+  },
+  {
+    "tags": [
+      "software"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/d6f23115a4df47febe7e7b60682ca439?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-04-24T15:07:05.000-05:00",
+      "username": "dh"
+    },
+    "created_at": "2014-10-30T20:20:41.000-05:00",
+    "url": "http://fetching.io/",
+    "title": "Fetching - Your own personal Google",
+    "short_id": "fkbeda",
+    "score": 7,
+    "comment_count": 3,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fkbeda/fetching_-_your_own_personal_google"
+  },
+  {
+    "tags": [
+      "openbsd",
+      "programming",
+      "security"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/b9d3b5c3539fcc1e152e64c87f945557?r=pg&d=mm&s=100",
+      "is_moderator": true,
+      "is_admin": true,
+      "created_at": "2012-06-30T16:39:19.000-05:00",
+      "username": "jcs"
+    },
+    "created_at": "2014-10-30T13:02:30.000-05:00",
+    "url": "http://lteo.net/blog/2014/10/28/reallocarray-in-openbsd-integer-overflow-detection-for-free/",
+    "title": "reallocarray() in OpenBSD: Integer Overflow Detection for Free",
+    "short_id": "vmb2wh",
+    "score": 16,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/vmb2wh/reallocarray_in_openbsd_integer_overflow_detection_for_free"
+  },
+  {
+    "tags": [
+      "ruby",
+      "web"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/ae16cb4f6d78e485b04ce1e821592ae5?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-03-22T03:23:01.000-05:00",
+      "username": "zem"
+    },
+    "created_at": "2014-10-30T16:14:40.000-05:00",
+    "url": "http://www.akitaonrails.com/2014/10/19/the-new-kid-on-the-block-for-ruby-servers-raptor#.VFKqB_hGjUY",
+    "title": "The New Kid on the Block for Ruby Servers: Raptor!",
+    "short_id": "fokmxp",
+    "score": 3,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fokmxp/the_new_kid_on_the_block_for_ruby_servers_raptor"
+  },
+  {
+    "tags": [
+      "php"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/0d9546ded196bfb6a5cd0619f9d3998a?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-02-27T15:15:42.000-06:00",
+      "username": "dshafik"
+    },
+    "created_at": "2014-10-30T14:05:48.000-05:00",
+    "url": "https://blog.engineyard.com/2014/composer-its-all-about-the-lock-file",
+    "title": "Composer: It’s All About the Lock File",
+    "short_id": "og6rpv",
+    "score": 4,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/og6rpv/composer_it_s_all_about_the_lock_file"
+  },
+  {
+    "tags": [
+      "javascript"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/b1e63769b74cd20b83b121c69ee3da6c?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-05-07T13:14:21.000-05:00",
+      "username": "remotesynth"
+    },
+    "created_at": "2014-10-30T06:29:23.000-05:00",
+    "url": "http://developer.telerik.com/featured/can-angularjs-maintain-dominance/",
+    "title": "Can AngularJS Maintain Its Dominance?",
+    "short_id": "d3smxz",
+    "score": 6,
+    "comment_count": 3,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/d3smxz/can_angularjs_maintain_its_dominance"
+  },
+  {
+    "tags": [
+      "programming"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/5de070e753aa687ed150feb24a19fd20?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2012-11-28T13:31:21.000-06:00",
+      "username": "silentbicycle"
+    },
+    "created_at": "2014-10-30T08:07:54.000-05:00",
+    "url": "http://prog21.dadgum.com/200.html",
+    "title": "Extreme Formatting",
+    "short_id": "cvkncu",
+    "score": 5,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cvkncu/extreme_formatting"
+  },
+  {
+    "tags": [
+      "compsci",
+      "hardware"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/da41919b7b7a36187924bbe1682dffc2?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-07-04T16:01:10.000-05:00",
+      "username": "journeysquid"
+    },
+    "created_at": "2014-10-29T20:14:57.000-05:00",
+    "url": "http://duartes.org/gustavo/blog/post/what-does-an-idle-cpu-do/",
+    "title": "What Does an Idle CPU Do?",
+    "short_id": "nqcd89",
+    "score": 13,
+    "comment_count": 3,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/nqcd89/what_does_an_idle_cpu_do"
+  },
+  {
+    "tags": [
+      "culture",
+      "databases",
+      "networking"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/da41919b7b7a36187924bbe1682dffc2?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2013-07-04T16:01:10.000-05:00",
+      "username": "journeysquid"
+    },
+    "created_at": "2014-10-29T09:52:17.000-05:00",
+    "url": "http://antirez.com/news/82",
+    "title": "This is why I (Antirez) can't have conversations using Twitter",
+    "short_id": "xkbpvl",
+    "score": 29,
+    "comment_count": 12,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xkbpvl/this_is_why_i_antirez_can_t_have_conversations_using_twitter"
+  },
+  {
+    "tags": [
+      "hardware",
+      "mobile"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/87e463011e9c8e62cc67a6c688bf88c1?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-10-28T14:43:52.000-05:00",
+      "username": "akurilin"
+    },
+    "created_at": "2014-10-29T23:37:05.000-05:00",
+    "url": "http://www.microsoft.com/microsoft-band/en-us",
+    "title": "Microsoft Band",
+    "short_id": "eyejpm",
+    "score": 2,
+    "comment_count": 7,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/eyejpm/microsoft_band"
+  },
+  {
+    "tags": [
+      "haskell",
+      "programming",
+      "scala"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/65563fff5ce7ca2bce9450bf16c3b73d?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-07-29T11:49:20.000-05:00",
+      "username": "irrequietus"
+    },
+    "created_at": "2014-10-30T05:32:40.000-05:00",
+    "url": "http://blog.podsnap.com/ducers2.html",
+    "title": "Type-safe transducers in Clojure. And Scala. And Haskell.",
+    "short_id": "ekdtyf",
+    "score": 3,
+    "comment_count": 0,
+    "description": "<p>You may obviously not agree with the entirety of the content in that post, however I find it interesting that somebody wrote this kind of post so I thought I&rsquo;d share it with you. Also a request, could we have a clojure tag in lobste.rs ?</p>\n",
+    "comments_url": "https://lobste.rs/s/ekdtyf/type-safe_transducers_in_clojure_and_scala_and_haskell"
+  },
+  {
+    "tags": [
+      "haskell"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/ae195ac7c8a5e9002a808544572cc5fc?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-05-06T11:29:38.000-05:00",
+      "username": "jozefg"
+    },
+    "created_at": "2014-10-29T15:19:55.000-05:00",
+    "url": "http://jozefg.bitbucket.org/posts/2014-10-28-stg.html",
+    "title": "The Guts of a Spineless Machine",
+    "short_id": "gkp4qo",
+    "score": 10,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gkp4qo/the_guts_of_a_spineless_machine"
+  },
+  {
+    "tags": [
+      "security"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/f82f3fb958ff2bc159361f71fc6e930c?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2012-08-30T11:35:30.000-05:00",
+      "username": "tedu"
+    },
+    "created_at": "2014-10-29T17:07:23.000-05:00",
+    "url": "http://blog.cryptographyengineering.com/2014/10/attack-of-week-unpicking-plaid.html",
+    "title": "Attack of the Week: Unpicking PLAID",
+    "short_id": "yqacue",
+    "score": 8,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yqacue/attack_of_the_week_unpicking_plaid"
+  },
+  {
+    "tags": [
+      "web"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/87e463011e9c8e62cc67a6c688bf88c1?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-10-28T14:43:52.000-05:00",
+      "username": "akurilin"
+    },
+    "created_at": "2014-10-30T03:06:26.000-05:00",
+    "url": "http://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/",
+    "title": "Bootstrap 3.3.0 released",
+    "short_id": "vvgpk1",
+    "score": 2,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/vvgpk1/bootstrap_3_3_0_released"
+  },
+  {
+    "tags": [
+      "devops",
+      "practices",
+      "web"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/d7bedc6bc67bdfe0a20079840504684d?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2012-09-06T10:25:01.000-05:00",
+      "username": "tobym"
+    },
+    "created_at": "2014-10-29T10:16:59.000-05:00",
+    "url": "http://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-most-page-loads.html?m=1",
+    "title": "MOST page loads will experience the 99%'ile server response",
+    "short_id": "twdi4i",
+    "score": 10,
+    "comment_count": 4,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/twdi4i/most_page_loads_will_experience_the_99_ile_server_response"
+  },
+  {
+    "tags": [
+      "hardware",
+      "programming",
+      "video"
+    ],
+    "submitter_user": {
+      "avatar_url": "https://secure.gravatar.com/avatar/cbd48b679f065981c55c4e70b2d30ace?r=pg&d=mm&s=100",
+      "is_moderator": false,
+      "is_admin": false,
+      "created_at": "2014-10-27T10:53:11.000-05:00",
+      "username": "IbnFirnas"
+    },
+    "created_at": "2014-10-29T21:11:16.000-05:00",
+    "url": "https://www.youtube.com/watch?v=KG2M4ttzBnY",
+    "title": "How did punch card systems work? Professor Brailsford delves further into ...",
+    "short_id": "mpuols",
+    "score": 2,
+    "comment_count": 1,
+    "description": "<p>How did punch card systems work? Professor Brailsford delves further into the era of mainframe computing with this hands-on look at punch cards.</p>\n",
+    "comments_url": "https://lobste.rs/s/mpuols/how_did_punch_card_systems_work_professor_brailsford_delves_further_into"
+  }
+]
