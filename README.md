@@ -3,6 +3,7 @@
 Go library for the Lobsters API
 
 [![GoDoc](https://godoc.org/github.com/peterhellberg/lobsters?status.svg)](https://godoc.org/github.com/peterhellberg/lobsters)
+[![Build Status](https://travis-ci.org/peterhellberg/lobsters.svg?branch=master)](https://travis-ci.org/peterhellberg/lobsters)
 
 ## Installation
 
