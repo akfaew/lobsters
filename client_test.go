@@ -24,6 +24,20 @@ func TestNewRequest(t *testing.T) {
 	assert.Equal(t, "https://lobste.rs/s/jyloq8.json", r.URL.String())
 }
 
+func TestDoWithInvalidJSON(t *testing.T) {
+	ts, c := testServerAndClientByFixture("invalid")
+	defer ts.Close()
+
+	r, err := c.NewRequest("invalid.json")
+	assert.Nil(t, err)
+
+	resp, err := c.Do(r, struct{}{})
+
+	assert.Nil(t, resp)
+	assert.Equal(t, "error reading response from GET /invalid.json: "+
+		"invalid character 'N' looking for beginning of value", err.Error())
+}
+
 func testServerAndClientByFixture(fn string) (*httptest.Server, *Client) {
 	body, _ := ioutil.ReadFile("_fixtures/" + fn + ".json")
 
