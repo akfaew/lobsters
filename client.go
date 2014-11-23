@@ -12,6 +12,9 @@ const (
 	userAgent      = "lobsters.go/" + libraryVersion
 )
 
+// DefaultClient is the default Lobsters API client.
+var DefaultClient = NewClient(nil)
+
 // A Client communicates with the Lobsters API.
 type Client struct {
 	Stories StoriesService
