@@ -4,6 +4,7 @@ Go library for the Lobsters API
 
 [![GoDoc](https://godoc.org/github.com/peterhellberg/lobsters?status.svg)](https://godoc.org/github.com/peterhellberg/lobsters)
 [![Build Status](https://travis-ci.org/peterhellberg/lobsters.svg?branch=master)](https://travis-ci.org/peterhellberg/lobsters)
+[![License MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](https://github.com/peterhellberg/lobsters#license-mit)
 
 ## Installation
 
@@ -44,12 +45,10 @@ func main() {
 }
 ```
 
-## License
+## License (MIT)
 
-> *The MIT License (MIT)*
->
-> Copyright (c) 2014 [Peter Hellberg](http://c7.se/)
->
+Copyright (c) 2014-2015 [Peter Hellberg](http://c7.se/)
+
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
 > in the Software without restriction, including without limitation the rights
