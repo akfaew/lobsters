@@ -45,3 +45,23 @@ func TestNewest(t *testing.T) {
 	assert.Equal(t, "https://www.youtube.com/watch?v=8_z9-iRiSZw", stories[5].URL)
 	assert.Equal(t, 6, stories[1].CommentCount)
 }
+
+func TestGetWithInvalidID(t *testing.T) {
+	ts, c := testServerAndClientByFixture("jyloq8")
+	defer ts.Close()
+
+	story, err := c.Stories.Get(`&%#%`)
+
+	assert.EqualError(t, err, `parse s/&%: invalid URL escape "%"`)
+	assert.Nil(t, story)
+}
+
+func TestAllWithInvalidPath(t *testing.T) {
+	ts, c := testServerAndClientByFixture("jyloq8")
+	defer ts.Close()
+
+	story, err := c.Stories.All(`&%#%`)
+
+	assert.EqualError(t, err, `parse &%: invalid URL escape "%"`)
+	assert.Nil(t, story)
+}
