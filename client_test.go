@@ -24,6 +24,12 @@ func TestNewRequest(t *testing.T) {
 	assert.Equal(t, "https://lobste.rs/s/jyloq8.json", r.URL.String())
 }
 
+func TestNewRequestWithInvalidPath(t *testing.T) {
+	_, err := NewClient(nil).NewRequest(`!"#€%&`)
+
+	assert.EqualError(t, err, `parse !"#€%&: invalid URL escape "%&"`)
+}
+
 func TestDoWithInvalidJSON(t *testing.T) {
 	ts, c := testServerAndClientByFixture("invalid")
 	defer ts.Close()
