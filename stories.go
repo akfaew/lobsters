@@ -38,7 +38,7 @@ type Story struct {
 	CommentCount int        `json:"comment_count"`
 	Description  string     `json:"description"`
 	CommentsURL  string     `json:"comments_url"`
-	Submitter    *User      `json:"submitter_user"`
+	Submitter    string     `json:"submitter_user"`
 	Tags         []string   `json:"tags"`
 	Comments     []*Comment `json:"comments"`
 }
